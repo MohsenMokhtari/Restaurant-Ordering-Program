@@ -1,5 +1,5 @@
 import java.util.*;
-public class person {
+public class restaurant {
 	private static Scanner input;
 	private static Scanner sc;
 	private static Scanner inputt;
